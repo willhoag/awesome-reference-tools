@@ -23,8 +23,8 @@ You may also be intersted in another documentation focused list called [beautifu
 - [man-n](https://github.com/man-n/man-n) - View npm package READMEs with man(1)
 
 ### Websites
-- [devdocs](https://http://devdocs.io/) - combines multiple API documentations in a fast, organized, and searchable interface
-- [mozilla developer netowrk](https://developer.mozilla.org) - Shared knowledge for the Open Web
+- [devdocs](https://devdocs.io/) - combines multiple API documentations in a fast, organized, and searchable interface
+- [mozilla developer network](https://developer.mozilla.org) - Shared knowledge for the Open Web
 
 ### System Applications
 - [dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets
