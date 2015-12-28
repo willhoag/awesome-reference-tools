@@ -13,6 +13,7 @@ You may also be intersted in another documentation focused list called [beautifu
 
 ### Command Line Tools
 - [howdoi](http://www.github.com/gleitz/howdoi) - instant coding answers via the command line
+- [hacks](https://github.com/waseem18/Hacks) - Find Hackathons near you or at a specificed location.
 - [tldr](https://github.com/tldr-pages/tldr) - a collection of simplified and community-driven man pages http://tldr-pages.github.io/
 - [stackit](http://www.github.com/lukasschwab/stackit) - Smart StackOverflow queries from the command line
 - [bro](http://www.github.com/hubsmoke/bro) - A CLI to interact with bropages.org http://bropages.org
