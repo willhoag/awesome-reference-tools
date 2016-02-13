@@ -33,3 +33,4 @@ You may also be intersted in another documentation focused list called [beautifu
 
 ### System Applications
 - [dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets
+- [zest](http://zestdocs.org/) - Documentation Browser. Offline search tool for developers.
