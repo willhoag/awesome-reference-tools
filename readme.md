@@ -11,10 +11,10 @@ You may also be intersted in another documentation focused list called [beautifu
 - [libraries](#libraries)
 - [websites](#websites)
 - [system applications](#system-applications)
+- [miscellaneous](#miscellaneous)
 
 ### Command Line Tools
 - [howdoi](http://www.github.com/gleitz/howdoi) - instant coding answers via the command line
-- [hacks](https://github.com/waseem18/Hacks) - Find Hackathons near you or at a specificed location via terminal on Linux.
 - [tldr](https://github.com/tldr-pages/tldr) - a collection of simplified and community-driven man pages http://tldr-pages.github.io/
 - [stackit](http://www.github.com/lukasschwab/stackit) - Smart StackOverflow queries from the command line
 - [bro](http://www.github.com/hubsmoke/bro) - A CLI to interact with bropages.org http://bropages.org
@@ -35,3 +35,6 @@ You may also be intersted in another documentation focused list called [beautifu
 ### System Applications
 - [dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets
 - [zest](http://zestdocs.org/) - Documentation Browser. Offline search tool for developers.
+
+### Miscellaneous
+- [hacks](https://github.com/waseem18/Hacks) - Find Hackathons near you or at a specificed location via terminal on Linux.
