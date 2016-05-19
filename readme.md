@@ -24,6 +24,7 @@ You may also be intersted in another documentation focused list called [beautifu
 - [npm-man](https://github.com/eush77/npm-man) - Open any package readme as a man page
 - [man-n](https://github.com/man-n/man-n) - View npm package READMEs with man(1)
 - [how2](https://github.com/santinic/how2) - Stackoverflow from the terminal
+- [dasht](https://github.com/sunaku/dasht) - Search API docs offline, in your terminal or browser https://sunaku.github.io/dasht
 
 ### Libraries
 - [jroff](https://github.com/roperzh/jroff) - Man pages parser written in JavaScript, supports `an` and `doc` macros
