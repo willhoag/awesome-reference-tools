@@ -25,6 +25,7 @@ You may also be intersted in another documentation focused list called [beautifu
 - [man-n](https://github.com/man-n/man-n) - View npm package READMEs with man(1)
 - [how2](https://github.com/santinic/how2) - Stackoverflow from the terminal
 - [dasht](https://github.com/sunaku/dasht) - Search API docs offline, in your terminal or browser https://sunaku.github.io/dasht
+- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - A caniuse command line tool!
 
 ### Libraries
 - [jroff](https://github.com/roperzh/jroff) - Man pages parser written in JavaScript, supports `an` and `doc` macros
