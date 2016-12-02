@@ -9,6 +9,7 @@ You may also be intersted in another documentation focused list called [beautifu
 ## Contents
 - [command line tools](#command-line-tools)
 - [libraries](#libraries)
+- [editor plugins](#editor-plugins)
 - [websites](#websites)
 - [system applications](#system-applications)
 - [miscellaneous](#miscellaneous)
@@ -29,6 +30,9 @@ You may also be intersted in another documentation focused list called [beautifu
 
 ### Libraries
 - [jroff](https://github.com/roperzh/jroff) - Man pages parser written in JavaScript, supports `an` and `doc` macros
+
+### Editor Plugins
+- [helm-dash](https://github.com/areina/helm-dash) - Browse Dash docsets inside emacs
 
 ### Websites
 - [devdocs](https://devdocs.io/) - combines multiple API documentations in a fast, organized, and searchable interface
