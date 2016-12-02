@@ -35,6 +35,10 @@ You may also be intersted in another documentation focused list called [beautifu
 - [overapi](http://overapi.com/) - Collecting All Cheat Sheets
 - [mozilla developer network](https://developer.mozilla.org) - Shared knowledge for the Open Web
 - [SyntaxDB](https://syntaxdb.com/) - Allows users to quickly look up syntax for programming languages
+- [SourceGraph](https://sourcegraph.com/) - A fast, global, semantic code search and cross-reference engine
+
+### Chrome Extensions
+- [Sourcegraph for Github](https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack?hl=en) - Browse and search code on GitHub like an IDE, with jump-to-definition, doc tooltips, and semantic search
 
 ### System Applications
 - [dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets
