@@ -27,6 +27,7 @@ You may also be intersted in another documentation focused list called [beautifu
 - [manpm](https://github.com/bahmutov/manpm) - Shows the relevant part of NPM module's README file right in your terminal
 - [npm-man](https://github.com/eush77/npm-man) - Open any package readme as a man page
 - [man-n](https://github.com/man-n/man-n) - View npm package READMEs with man(1)
+- [cwiki](https://github.com/chrishannah/cwiki) - Command line Wikipedia searching!
 
 ### Libraries
 - [jroff](https://github.com/roperzh/jroff) - Man pages parser written in JavaScript, supports `an` and `doc` macros
