@@ -28,6 +28,8 @@ You may also be intersted in another documentation focused list called [beautifu
 - [npm-man](https://github.com/eush77/npm-man) - Open any package readme as a man page
 - [man-n](https://github.com/man-n/man-n) - View npm package READMEs with man(1)
 - [cwiki](https://github.com/chrishannah/cwiki) - Command line Wikipedia searching!
+- [translate-shell](https://github.com/soimort/translate-shell) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. https://www.soimort.org/translate-shell
+
 
 ### Libraries
 - [jroff](https://github.com/roperzh/jroff) - Man pages parser written in JavaScript, supports `an` and `doc` macros
@@ -36,10 +38,10 @@ You may also be intersted in another documentation focused list called [beautifu
 - [helm-dash](https://github.com/areina/helm-dash) - Browse Dash docsets inside emacs
 
 ### Websites
-- [devdocs](https://devdocs.io/) - combines multiple API documentations in a fast, organized, and searchable interface
+- [devdocs](https://devdocs.io/) - combines API documentations in a fast, organized, and searchable interface
 - [overapi](http://overapi.com/) - Collecting All Cheat Sheets
 - [mozilla developer network](https://developer.mozilla.org) - Shared knowledge for the Open Web
-- [SyntaxDB](https://syntaxdb.com/) - Allows users to quickly look up syntax for programming languages
+- [SyntaxDB](https://syntaxdb.com/) - Allows users to look up syntax for programming languages
 - [SourceGraph](https://sourcegraph.com/) - A fast, global, semantic code search and cross-reference engine
 
 ### Chrome Extensions
@@ -50,4 +52,4 @@ You may also be intersted in another documentation focused list called [beautifu
 - [zest](http://zestdocs.org/) - Documentation Browser. Offline search tool for developers.
 
 ### Miscellaneous
-- [hacks](https://github.com/waseem18/Hacks) - Find Hackathons near you or at a specificed location via terminal on Linux.
+- [hacks](https://github.com/waseem18/Hacks) - Find Hackathons near you or at a location via terminal on Linux.
