@@ -29,7 +29,7 @@ You may also be intersted in another documentation focused list called [beautifu
 - [man-n](https://github.com/man-n/man-n) - View npm package READMEs with man(1)
 - [cwiki](https://github.com/chrishannah/cwiki) - Command line Wikipedia searching!
 - [translate-shell](https://github.com/soimort/translate-shell) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. https://www.soimort.org/translate-shell
-
+- [Shiki](https://github.com/jorvi/shiki) - Wikipedia 🌐 on your Terminal
 
 ### Libraries
 - [jroff](https://github.com/roperzh/jroff) - Man pages parser written in JavaScript, supports `an` and `doc` macros
